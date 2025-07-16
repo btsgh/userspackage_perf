@@ -1,0 +1,1 @@
+SELECT * FROM public."users" where country={{inputs.country}} LIMIT {{inputs.limit}};
