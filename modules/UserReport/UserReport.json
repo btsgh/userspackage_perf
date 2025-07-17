@@ -3,6 +3,11 @@
   "moduleUUID": "ec31d910-6f1f-4fff-8b9c-a58031c488dc",
   "type": "UI_MODULE",
   "unpublishedModule": {
+    "dynamicBindingPathList": [
+      {
+        "key": "outputsForm[0].children[0].value"
+      }
+    ],
     "inputsForm": [
       {
         "children": [
@@ -50,10 +55,18 @@
         }
       }
     ],
-    "name": "UIModule1",
+    "name": "UserReport",
     "outputsForm": [
       {
-        "children": [],
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "id": "jubgdpcazk",
+            "label": "selectedUser",
+            "propertyName": "outputs.selectedUser",
+            "value": "{{Table1.selectedRow}}"
+          }
+        ],
         "id": "ewcijiacuu",
         "sectionName": ""
       }

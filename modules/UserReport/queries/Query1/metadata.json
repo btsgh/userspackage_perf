@@ -1,6 +1,6 @@
 {
   "gitSyncId": "e43a6f40-8b35-4080-ada1-f5452edb6c97_1177072e-e70f-4696-bbf1-505ee85f708f",
-  "id": "UIModule1_Query1",
+  "id": "UserReport_Query1",
   "isPublic": false,
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
@@ -29,7 +29,7 @@
         "key": "body"
       }
     ],
-    "moduleId": "UIModule1",
+    "moduleId": "UserReport",
     "name": "Query1",
     "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
