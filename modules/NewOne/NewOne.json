@@ -8,10 +8,10 @@
         "children": [
           {
             "controlType": "INPUT_TEXT",
-            "defaultValue": "United States",
+            "defaultValue": "APPROVED",
             "id": "puhiqheywc",
-            "label": "country",
-            "propertyName": "inputs.country"
+            "label": "status",
+            "propertyName": "inputs.status"
           },
           {
             "controlType": "INPUT_TEXT",
