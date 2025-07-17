@@ -10,8 +10,8 @@
             "controlType": "INPUT_TEXT",
             "defaultValue": "APPROVED",
             "id": "puhiqheywc",
-            "label": "status",
-            "propertyName": "inputs.status"
+            "label": "STATUS",
+            "propertyName": "inputs.STATUS"
           },
           {
             "controlType": "INPUT_TEXT",
