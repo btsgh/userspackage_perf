@@ -1,6 +1,6 @@
 {
   "gitSyncId": "5cb9a830-3acd-41e9-89fe-5b033ab20b6c_45f9333c-a58b-4b62-a5a4-997c0deeeb90",
-  "id": "UIModule1_Query1",
+  "id": "NewOne_Query1",
   "isPublic": false,
   "pluginId": "snowflake-plugin",
   "pluginType": "DB",
@@ -20,9 +20,9 @@
       "pluginId": "snowflake-plugin"
     },
     "dynamicBindingPathList": [],
-    "moduleId": "UIModule1",
+    "moduleId": "NewOne",
     "name": "Query1",
-    "runBehaviour": "MANUAL",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
